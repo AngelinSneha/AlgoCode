@@ -1,8 +1,6 @@
 # Algocode-problem-solving
 
 Algocode-problem-solving is an online platform designed for coding interview preparation. It leverages microservices architecture to handle various aspects of coding problem submission, evaluation, and administration.
-<img width="1431" alt="image" src="https://github.com/AngelinSneha/AlgoCode-problem-solving/assets/66509492/4b33c7fc-1938-402a-8599-1bce71d38b75">
-
 ---
 
 ## Features
