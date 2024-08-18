@@ -1,3 +1,4 @@
 node_modules/
 .env
 dumb.rdb
+.DS_Store

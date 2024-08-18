@@ -3,3 +3,4 @@ node_modules/
 dist/
 app.log
 dumb.rdb
+.DS_Store

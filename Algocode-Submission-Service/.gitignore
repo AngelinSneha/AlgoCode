@@ -1,3 +1,4 @@
 node_modules/
 .env
 dump.rdp
+.DS_Store
